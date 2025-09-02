@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TCP Test</string>
+    <string name="main_activity_title"> TCP Test Server</string>
+    <string name="get_string_button_name">Get file from PC</string>
+    <string name="main_activity_textview">This message came from your PC!</string>
+    <string name="string_from_PC">The message from your PC will appear here</string>
+    <string name="view_private_storage">Click to view private storage</string>
+    <string name="view_files_textView">Private storage files will show here</string>
+</resources>
